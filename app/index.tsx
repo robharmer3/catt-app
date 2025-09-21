@@ -6,8 +6,6 @@ export default function Index() {
 
   function buttonPress() {
     const ranNum = Math.floor(Math.random() * 67);
-    console.log(ranNum);
-    // navigation.setParams({ catNum: ranNum });
     navigation.navigate("Cat", { catNum: ranNum });
   }
   return (
