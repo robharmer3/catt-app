@@ -1,50 +1,28 @@
-# Welcome to your Expo app 👋
+# My React Native App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Cat App
 
-## Get started
+## Description
 
-1. Install dependencies
+This is a simple React Native app.
+It allows users to see cute pictures of random cat breads along with the bread name and a short description.
 
-   ```bash
-   npm install
-   ```
+The tech that I have used for this application is:
 
-2. Start the app
+- React Native
+- Axios
+- CSS
+- HTML
+- Node.js
+- Expo
 
-   ```bash
-   npx expo start
-   ```
+## How to use it?
 
-In the output, you'll find options to open the app in a
+To run the app locally, please follow these instructions:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1. Clone the repo
+2. Run "npm install"
+3. Run "npx expo start"
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+It can be view on a wb browser or by using the Expo Go app.
+Please see here for detail about the Expo Go app: https://expo.dev/
